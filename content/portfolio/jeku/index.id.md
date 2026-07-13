@@ -149,4 +149,4 @@ Selain itu, saya juga membangun antarmuka yang responsif agar aplikasi tetap nya
 
 ## Repository
 
-{{< github repo="triagung128/jeku-react-js" showThumbnail=false >}}
+{{< github repo="triagung128/jeku-react-js" showThumbnail=true >}}
