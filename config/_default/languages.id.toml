@@ -1,26 +1,26 @@
 disabled = false
-locale = "en"
-label = "English"
+locale = "id"
+label = "Indonesia"
 weight = 1
-title = "Blowfish"
+title = "Tri Agung Susilo | Web Developer"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "ID"
+  isoCode = "id"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Jelajahi portofolio Tri Agung Susilo, seorang Web Developer. Temukan berbagai proyek yang telah saya kerjakan beserta teknologi yang digunakan. Setiap proyek dilengkapi dengan tantangan dan solusi selama proses pengembangan."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "Tri Agung Susilo"
   email = "triagung128@gmail.com"
-  image = "img/blowfish_logo.png"
+  image = "img/author.png"
   imageQuality = 96
   headline = "Web Developer"
-  bio = "A little bit about you"
+  # bio = "Berfokus pada pengembangan aplikasi web yang responsif, maintainable dan memberikan pengalaman pengguna yang optimal."
   links = [
     { email = "mailto:triagung128@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
