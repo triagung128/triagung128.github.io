@@ -48,6 +48,7 @@ Lebih lengkapnya lihat di <a href="#download">CV Saya</a>
 - <a href="https://www.dicoding.com/certificates/JLX14MO32X72" class="italic" target="_blank">Belajar Membuat Front-End Web untuk Pemula</a>, Dicoding
 - <a href="https://www.dicoding.com/certificates/JLX148GN6X72" class="italic" target="_blank">Belajar Dasar Pemrograman Web</a>, Dicoding
 - <a href="https://www.dicoding.com/certificates/QLZ9VY24MX5D" class="italic" target="_blank">Belajar Dasar Pemrograman JavaScript</a>, Dicoding
+- <a href="https://www.dicoding.com/certificates/2VX3OG5W3ZYQ" class="italic" target="_blank">Belajar Back-End Pemula dengan JavaScript</a>, Dicoding
 - <a href="https://www.dicoding.com/certificates/NVP7K7MY4ZR0" class="italic" target="_blank">Belajar Fundamental Front-End Web Development</a>, Dicoding
 
 ## Download
